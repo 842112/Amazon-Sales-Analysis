@@ -1,10 +1,5 @@
 # Amazon-Sales-Analysis
 Performed data cleaning, exploratory analysis, and visualization on Amazon’s sales dataset to uncover insights on sales performance, customer behavior, fulfillment efficiency, product demand, and geographical distribution.
-
-Got it ✅ Let’s create a **professional GitHub README format** for your **Amazon Sales Analysis Project** (the one you did in Python with Pandas, Matplotlib & Seaborn).
-
-Here’s the full structure 👇
-
 ---
 
 # 📊 Amazon Sales Analysis using Python
